@@ -1,0 +1,26 @@
+.main-container{
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+}
+.main-container h2{
+    text-align: center;
+}
+.container-body{
+    display: flex;
+    flex-direction: column;
+}
+.container-body label{
+    font-size: 20px;
+}
+.container-body input{
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.login-btn{
+    width: 100%;
+    margin-top: 10px;
+    background-color: blue;
+    color: aliceblue;
+}
